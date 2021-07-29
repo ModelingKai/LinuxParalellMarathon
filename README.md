@@ -1,0 +1,2 @@
+# LinuxParalellMarathon
+12hでLinux並行プログラミング入門をやる会
