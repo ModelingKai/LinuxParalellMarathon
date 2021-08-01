@@ -4,4 +4,4 @@ project(LinuxParalellMarathon)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(LinuxParalellMarathon
-        testDirectry/test.c chap01/1.c)
+        chap01/1.c chap01/1.2/1.c )
