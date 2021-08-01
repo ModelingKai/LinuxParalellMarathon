@@ -7,11 +7,11 @@
 
 
 int main() {
+
     int wfd, rfd, n;
     char client, cmd[80];
-
     wfd = open("request", O_WRONLY);
-    rfd = open("response2", O_RDONLY);
+    printf("response2 open");
 
     client = '2';
 
